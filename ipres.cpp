@@ -1,4 +1,4 @@
-// opers.cpp
+// ipers.cpp
 // Чтение информации из файла 
 #include <iostream>
 #include <fstream>                                  // для файловых потоков
